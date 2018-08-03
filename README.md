@@ -1,1 +1,1 @@
-# ActiveMq_notepad
+# mystudy_notepad
